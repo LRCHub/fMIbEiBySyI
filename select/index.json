@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "夜が明けるまで",
+  "base_artist": "Nornis",
+  "createdAt": "2026-02-14T03:37:01.457055Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜が明けるまで",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/01_夜が明けるまで_Nornis.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "3 夜が明けるまで",
+      "artist": "夢先鳥仔",
+      "has_synced": true,
+      "path": "select/02_3_夜が明けるまで_夢先鳥仔.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜が明けるまで",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_夜が明けるまで_Nornis.txt"
+    }
+  ]
+}
